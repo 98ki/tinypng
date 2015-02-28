@@ -1,0 +1,21 @@
+# main
+*.swp
+*.pyc
+*.egg
+*.egg-info
+*.dist-info
+*#
+.#*
+.coverage
+.project
+.pydevproject
+.settings/
+.DS_Store
+
+# Pycharm
+.idea/
+
+# logs, pid, etc..
+logs/
+run/
+*.log
